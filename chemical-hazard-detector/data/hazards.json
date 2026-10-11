@@ -1,0 +1,83 @@
+[
+  {
+    "code": "GHS01",
+    "symbole": "Explosion",
+    "mention_inrs": "J'explose",
+    "categorie": "Danger physique",
+    "description": "Matières et mélanges explosibles, auto-réactifs ou peroxydes organiques.",
+    "risques": "Risque de souffle, d'incendie et de projection de débris lors d'un emballement.",
+    "mesures_stockage": "Local spécifique, ventilation continue, tenue à l'écart des sources d'ignition."
+  },
+  {
+    "code": "GHS02",
+    "symbole": "Flamme",
+    "mention_inrs": "Je flambe",
+    "categorie": "Danger physique",
+    "description": "Liquides, solides et gaz inflammables, pyrophoriques ou émettant des gaz inflammables au contact de l'eau.",
+    "risques": "Inflammation spontanée ou suite à une étincelle, propagation rapide du feu.",
+    "mesures_stockage": "Enceinte ventilée dédiée, armoire ignifuge, éloignement des comburants."
+  },
+  {
+    "code": "GHS03",
+    "symbole": "Flamme au-dessus d'un cercle",
+    "mention_inrs": "Je fais flamber",
+    "categorie": "Danger physique",
+    "description": "Comburants pouvant provoquer ou aggraver un incendie en fournissant de l'oxygène.",
+    "risques": "Activation violente de combustion en présence de matière inflammable.",
+    "mesures_stockage": "Séparation physique stricte de tout produit combustible ou inflammable."
+  },
+  {
+    "code": "GHS04",
+    "symbole": "Bouteille de gaz",
+    "mention_inrs": "Je suis sous pression",
+    "categorie": "Danger physique",
+    "description": "Gaz sous pression, liquéfiés, réfrigérés ou dissous.",
+    "risques": "Risque d'explosion sous l'effet de la chaleur, décompression brutale, asphyxie par déplacement de l'air.",
+    "mesures_stockage": "Bouteilles arrimées verticalement, abri tempéré, ventilation permanente."
+  },
+  {
+    "code": "GHS05",
+    "symbole": "Corrosion sur métal et peau",
+    "mention_inrs": "Je ronge",
+    "categorie": "Danger physique et pour la santé",
+    "description": "Substances corrosives pour les métaux et provoquant des brûlures cutanées ou des lésions oculaires graves.",
+    "risques": "Destruction irréversible des tissus cutanés/oculaires, altération structurelle des conteneurs.",
+    "mesures_stockage": "Bacs de rétention anticorrosion, séparation absolue entre acides concentrés et bases concentrées."
+  },
+  {
+    "code": "GHS06",
+    "symbole": "Tête de mort sur deux tibias",
+    "mention_inrs": "Je tue",
+    "categorie": "Danger pour la santé",
+    "description": "Substances à toxicité aiguë sévère par inhalation, contact cutané ou ingestion (faibles valeurs DL50/CL50).",
+    "risques": "Dommages immédiats graves, intoxication létale foudroyante.",
+    "mesures_stockage": "Armoire ou local spécifique verrouillé à clé, accès rigoureusement contrôlé et limité."
+  },
+  {
+    "code": "GHS08",
+    "symbole": "Point d'exclamation",
+    "mention_inrs": "J'altère la santé ou la couche d'ozone",
+    "categorie": "Danger pour la santé et environnement",
+    "description": "Toxicité aiguë modérée, irritation cutanée ou oculaire, sensibilisation, toxicité pour l'ozone.",
+    "risques": "Irritation des muqueuses, dermatites, somnolence, vertiges.",
+    "mesures_stockage": "Local ventilé, protection individuelle obligatoire contre les aérosols."
+  },
+  {
+    "code": "GHS07",
+    "symbole": "Buste avec étoile",
+    "mention_inrs": "Je nuis gravement à la santé",
+    "categorie": "Danger pour la santé",
+    "description": "Substances cancérogènes, mutagènes, toxiques pour la reproduction (CMR), sensibilisants respiratoires ou toxiques pour certains organes cibles.",
+    "risques": "Développement de cancers, mutations génétiques, stérilité, effets chroniques différés souvent sans seuil.",
+    "mesures_stockage": "Armoire dédiée verrouillée, traçabilité nominative des expositions, substitution prioritaire."
+  },
+  {
+    "code": "GHS09",
+    "symbole": "Poisson et arbre mort",
+    "mention_inrs": "Je pollue",
+    "categorie": "Danger pour l'environnement",
+    "description": "Substances présentant une toxicité aiguë ou chronique pour les organismes aquatiques.",
+    "risques": "Bioaccumulation, destruction de la faune aquatique et contamination durable des sols et nappes.",
+    "mesures_stockage": "Rétention intégrale obligatoire, interdiction formelle de rejet vers les égouts."
+  }
+]
